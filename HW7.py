@@ -129,7 +129,8 @@ def birthyear_nationality_search(age, country, cur, conn):
     # HINT: You'll have to use JOIN for this task.
 
 def position_birth_search(position, age, cur, conn):
-       pass
+    
+       
 
 
 # [EXTRA CREDIT]
